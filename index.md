@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Workshops conducted by CEN
 
-You can use the [editor on GitHub](https://github.com/BarathiGanesh-HB/cen-workshops/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Centre for Excellence in Computational Engineering and Networking ([CEN](https://www.amrita.edu/center/computational-engineering-and-networking)),
+Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## [1. DeepChem 2017: Deep Learning & NLP for Computational Chemistry, Biology & Nano-materials](https://barathiganesh-hb.github.io/cen-deepchem2017/)
 
-### Markdown
+## [2. Blockchain 2017 Workshop: Blockchain and Machine Learning](https://barathiganesh-hb.github.io/cen-bcml2017/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## [3. DeepSci 2017 Workshop: Deep Learning for Healthcare and Financial Data Analytics](https://barathiganesh-hb.github.io/cen-deepsci2017/)
 
-```markdown
-Syntax highlighted code block
+## [4. AISec 2017 Workshop: Modern Artificial Intelligence (AI) and Natural Language Processing (NLP) Techniques for Cyber Security](https://barathiganesh-hb.github.io/cen-aisec2017/)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BarathiGanesh-HB/cen-workshops/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
