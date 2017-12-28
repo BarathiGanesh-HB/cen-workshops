@@ -11,3 +11,4 @@ Amrita Vishwa Vidyapeetham ([Amrita University](https://www.amrita.edu/)).
 
 ## [4. AISec 2017 Workshop: Modern Artificial Intelligence (AI) and Natural Language Processing (NLP) Techniques for Cyber Security](https://barathiganesh-hb.github.io/cen-aisec2017/)
 
+## [5. A Refresher experiential course on linear algebra and Optimization for Most Modern Signal processing and pattern classification](https://barathiganesh-hb.github.io/cen-msp2017/)
